@@ -1,5 +1,7 @@
 # Jonas Abi Backend Course
 
+jonas abinin theme: oceanic next
+
 ## day1
 
 - using core modules
@@ -13,4 +15,9 @@
 
 ## day2
 
--
+- parsing URLs
+- using own modules
+- npm
+- using 3rd party modules
+- how the web workd
+- frontend vs backend web development
