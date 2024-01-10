@@ -21,3 +21,12 @@ jonas abinin theme: oceanic next
 - using 3rd party modules
 - how the web workd
 - frontend vs backend web development
+
+## day3
+
+- node, v8 engine, libuv
+- thread pool and event loop
+- event driven architecture
+- streams
+- how require works
+- callbacks and promises
