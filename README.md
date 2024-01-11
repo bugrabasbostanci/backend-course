@@ -30,3 +30,14 @@ jonas abinin theme: oceanic next
 - streams
 - how require works
 - callbacks and promises
+
+## day4
+
+- async/await
+- express, postman
+- basic routing
+- APIs and RESTful APIs
+- handling GET, POST, PATCH, DELETE requests
+- middleware
+- Routes and Mounting routers
+- file strucutre
