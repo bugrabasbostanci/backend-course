@@ -2,6 +2,9 @@
 
 jonas abinin theme: oceanic next
 
+- cmd de mongod.exe yazarak mongodb server'ını başlatırız
+- cmd de mongosh yazarak mongo shell'i başlatırız
+
 ## day1
 
 - using core modules
@@ -40,4 +43,14 @@ jonas abinin theme: oceanic next
 - handling GET, POST, PATCH, DELETE requests
 - middleware
 - Routes and Mounting routers
-- file strucutre
+- file structure
+
+# day5
+
+- param middleware and chainig middlewares
+- serving static files
+- env variables and eslint
+- mongodb installation
+- creating local DB and CRUD operation with mongosh
+- using compass app
+- hosted DB with atlas and connect to hosted DB
