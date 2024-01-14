@@ -54,3 +54,19 @@ jonas abinin theme: oceanic next
 - creating local DB and CRUD operation with mongosh
 - using compass app
 - hosted DB with atlas and connect to hosted DB
+
+# day6
+
+- connect db with express app
+- mongoose, schema, model
+- MVC architecture (model, view, controller)
+- modelling tours and importing data from json to db
+- CRUD operations
+
+# day7
+
+- filtering and advence filtering
+- sorting
+- limiting fields
+- pagination
+- aliasing
