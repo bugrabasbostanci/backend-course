@@ -70,3 +70,9 @@ jonas abinin theme: oceanic next
 - limiting fields
 - pagination
 - aliasing
+
+# day8
+
+- aggregation pipeline (matching, grouping, unwinding, projecting)
+- virtual properties
+- document middleware
