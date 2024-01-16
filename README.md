@@ -76,3 +76,13 @@ jonas abinin theme: oceanic next
 - aggregation pipeline (matching, grouping, unwinding, projecting)
 - virtual properties
 - document middleware
+
+# day9
+
+- query middleware
+- aggregation middleware
+- data validation
+- debugging nodejs with ndb
+- handling unhandled routes
+- global error middleware and better errors
+- catching error with async functions

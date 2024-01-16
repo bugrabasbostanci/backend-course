@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon server.js",
-    "start:prod": "set NODE_ENV=production && nodemon server.js"
+    "start:prod": "set NODE_ENV=production && nodemon server.js",
+    "debug": "ndb server.js"
   },
   "author": "Bugra Basbostanci",
   "license": "ISC",
@@ -15,7 +16,8 @@
     "mongodb": "^6.3.0",
     "mongoose": "^5.13.22",
     "morgan": "^1.10.0",
-    "slugify": "^1.6.6"
+    "slugify": "^1.6.6",
+    "validator": "^13.11.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
