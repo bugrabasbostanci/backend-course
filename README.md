@@ -86,3 +86,11 @@ jonas abinin theme: oceanic next
 - handling unhandled routes
 - global error middleware and better errors
 - catching error with async functions
+
+# day10
+
+- adding 404 not found errors
+- development and production errors
+- handling invalid database IDs
+- handling duplicate database fields
+- handling mongoose validation errors
