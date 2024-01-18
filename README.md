@@ -94,3 +94,11 @@ jonas abinin theme: oceanic next
 - handling invalid database IDs
 - handling duplicate database fields
 - handling mongoose validation errors
+
+# day11
+
+- unhandled rejections and uncaught exceptions
+- modelling users
+- creating new users
+- managing passwords and JWT
+- signup users
