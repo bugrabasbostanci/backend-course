@@ -102,3 +102,10 @@ jonas abinin theme: oceanic next
 - creating new users
 - managing passwords and JWT
 - signup users
+
+# day12
+
+- logging users
+- protecting routes with token
+- advenced postman setup
+- authorization: user roles and permissions
