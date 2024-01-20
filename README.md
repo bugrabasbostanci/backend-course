@@ -109,3 +109,17 @@ jonas abinin theme: oceanic next
 - protecting routes with token
 - advenced postman setup
 - authorization: user roles and permissions
+
+# day13
+
+- password reset functionality, reset token
+- sending emails with nodemailer
+- setting new password
+- updating current user password
+- deleting user
+- security best practises
+- sending JWT via cookies
+- rate limiting
+- security http headers
+- data sanitization
+- preventing parameter pollution
