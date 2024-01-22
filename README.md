@@ -123,3 +123,10 @@ jonas abinin theme: oceanic next
 - security http headers
 - data sanitization
 - preventing parameter pollution
+
+# day14
+
+- mongodb data moddeling
+- designing our data model
+- modelling locations
+- modelling tour guides: embedding
