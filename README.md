@@ -130,3 +130,14 @@ jonas abinin theme: oceanic next
 - designing our data model
 - modelling locations
 - modelling tour guides: embedding
+
+# day15
+
+- modelling tour guides: child referencing
+- populating tour guides
+- modelling reviews: parent referencing
+- creating, getting and populating reviews
+- virtual populate
+- implementing simple nested routes
+- nested routes with express
+- nested GET endpoint
