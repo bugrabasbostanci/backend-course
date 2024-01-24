@@ -141,3 +141,11 @@ jonas abinin theme: oceanic next
 - implementing simple nested routes
 - nested routes with express
 - nested GET endpoint
+
+# day16
+
+- building handler factory functions: CRUD
+- adding /me endpoint
+- adding missing authentication and authorization
+- improving read performance with indexes
+- calculating average ratings
