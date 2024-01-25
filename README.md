@@ -149,3 +149,10 @@ jonas abinin theme: oceanic next
 - adding missing authentication and authorization
 - improving read performance with indexes
 - calculating average ratings
+
+# day17
+
+- preventing duplicate reviews
+- geospatial queries: finding tours within radius
+- geospatial aggregation: calculating distances
+- creating API documentation using Postman
