@@ -5,6 +5,9 @@ jonas abinin theme: oceanic next
 - cmd de mongod.exe yazarak mongodb server'ını başlatırız
 - cmd de mongosh yazarak mongo shell'i başlatırız
 
+- postman document link
+  https://documenter.getpostman.com/view/31964434/2s9YypF3cW
+
 ## day1
 
 - using core modules
@@ -156,3 +159,10 @@ jonas abinin theme: oceanic next
 - geospatial queries: finding tours within radius
 - geospatial aggregation: calculating distances
 - creating API documentation using Postman
+
+# day18
+
+- setting up Pug in express
+- creating base template
+- including files into pug templates
+- building the tour overviews
