@@ -1,6 +1,6 @@
 # Jonas Abi Backend Course
 
-jonas abinin theme: oceanic next
+jonas's theme: oceanic next
 
 - cmd de mongod.exe yazarak mongodb server'ını başlatırız
 - cmd de mongosh yazarak mongo shell'i başlatırız
@@ -166,3 +166,13 @@ jonas abinin theme: oceanic next
 - creating base template
 - including files into pug templates
 - building the tour overviews
+
+# day19
+
+- building the tour page
+- including map with Mapbox(I couldn't because mapbox is not free anymore)
+- building login screen
+- logging in users with our API
+- logging out users(couldn't logged out users)
+
+npm run start | npm run watch:js
