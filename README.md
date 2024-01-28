@@ -173,12 +173,14 @@ jonas's theme: oceanic next
 - including map with Mapbox(I couldn't because mapbox is not free anymore)
 - building login screen
 - logging in users with our API
-- logging out users(couldn't logged out users) DONE!
+- logging out users(couldn't logged out users) DONE!!
 
 # day20
 
 - rendering error pages
 - building user acc page
 - updating user data
+- updating user data with our API
+- updating user password with our API
 
 npm run start | npm run watch:js

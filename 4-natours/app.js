@@ -43,6 +43,7 @@ app.use('/api', limiter);
 
 // Body parser, reading data drom body into req.body
 app.use(express.json({ limit: '10kb' })); /*middleware */
+app.use(express.urlencoded({ extended: true, limit: '10kb' }));
 app.use(cookieParser());
 
 // Data sanitization against NoSQL query injection
