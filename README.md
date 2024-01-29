@@ -183,4 +183,12 @@ jonas's theme: oceanic next
 - updating user data with our API
 - updating user password with our API
 
+# day21
+
+- image uploads using multer: users
+- configuring multer
+- saving image name to db
+- resizing images
+- adding image uploads to form
+
 npm run start | npm run watch:js
