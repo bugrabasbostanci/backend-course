@@ -191,4 +191,14 @@ jonas's theme: oceanic next
 - resizing images
 - adding image uploads to form
 
+# day22
+
+- uploading multiple images
+- processing multiple images
+- building complex email handler
+- email templates: welcome emails
+- sending password reset email
+- using sendgrid for real emails (I couldn't use SendGrid, tried Brevo and again couldn't)
+- credit card payment with Stripe
+
 npm run start | npm run watch:js
