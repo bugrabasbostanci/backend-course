@@ -201,4 +201,12 @@ jonas's theme: oceanic next
 - using sendgrid for real emails (I couldn't use SendGrid, tried Brevo and again couldn't)
 - credit card payment with Stripe
 
+# day23
+
+- integrating stripe into the Backend
+- integrating stripe into the Frontend
+- modelling the books
+- creating new bookings on checkout session
+- rendering user's booked tour
+
 npm run start | npm run watch:js
