@@ -209,4 +209,10 @@ jonas's theme: oceanic next
 - creating new bookings on checkout session
 - rendering user's booked tour
 
+# day24
+
+- finishing the booking API
+- preparing app for deployment
+-
+
 npm run start | npm run watch:js
