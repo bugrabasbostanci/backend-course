@@ -213,6 +213,24 @@ jonas's theme: oceanic next
 
 - finishing the booking API
 - preparing app for deployment
--
+
+# day25
+
+- stripe webhooks
+- final thoughts, app ideas
 
 npm run start | npm run watch:js
+
+---
+
+# final thoughts
+
+Genel olarak kursu beğendim. Jonas abinin anlatım tarzı hoşuma gidiyor. Dünden daha iyiyim, yeni şeyler öğrendim. Kursun 3-4 yıl öncesi yapılması bazı durumlarda hoş olmadı. Heyecanla kod yazarken bir anda kendimi dokümantasyon okumak zorunda buldum. Ek olarak Jonas abinin kullandığı bazı uygulamalar(Mapbox, Sendgrid, Stripe, Hostinger) free olarak kullanılmıyor. Alternatif uygulamaları kendim bulup uygulamak zorunda kaldım ve bu durum bir hayli canımı sıktı.
+Sonuç olarak bu kurstan kendime bir şeyler kattığımı düşünüyorum. Kurs güncel olsaydı ve gereksiz yere dokümantasyonla zaman kaybetmeseydim daha güzel olurdu. Puanım 3.5/5
+
+## App ideas
+
+1. quiz app
+2. forum app(like reddit)
+3. restaurant management
+4. social network app(like facebook, instagram)
